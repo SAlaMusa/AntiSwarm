@@ -499,7 +499,6 @@ Or switch to a CPU runtime; training will take longer (~3–4 hours) but will co
 ---
 
 ## Responsible Use
-
 Anti-Swarm is an investigative tool for generating hypotheses for human review — not for automated enforcement.
 
 A flag indicates behaviour **consistent with coordination**, not proof of inauthenticity. Collective civic mobilisation can produce posting patterns that superficially resemble bot coordination. All findings should be reviewed by a human investigator before any action is taken, and accounts should not be reported to platforms or named publicly without independent corroboration.
@@ -508,17 +507,6 @@ When writing about findings: describe accounts as *"exhibiting coordination sign
 
 ---
 
-## Citation
-
-```bibtex
-@article{moses2026antiswarm,
-  title  = {Anti-Swarm: Detecting Synthetic Consensus via
-            Dual-Mode Graph Attention Networks},
-  author = {Moses, Sarah Sunday},
-  year   = {2026},
-  note   = {Carnegie Mellon University Africa}
-}
-```
 
 ---
 
