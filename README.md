@@ -29,6 +29,9 @@ The system routes accounts to one of two detection modes based on posting speed:
 
 ---
 
+## Demo Vid
+https://drive.google.com/file/d/1QjNeG6orcI4SN8FlPrkB4mWQXjkhddYf/view?usp=sharing
+
 ## Repository Structure
 
 ```
